@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(70, 142, 236);
+    font: normal 15pt arial;
+
+
+}
+header {
+    color: white;/*cor do texto*/
+    text-align: center;/*onde o texto vai na pagina lateralmente*/
+
+}
+section {
+    background-color: white;
+    border-radius: 10px;/*borda arredondada*/
+    padding: 15px;/*altura da caixa branca*/
+    width: 500px;/*largura da caixa branca*/
+    margin: auto ;/*centralizar a caixa branca*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);/*sombra*/
+
+}
+img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+input{
+    /*width: 10px;
+    border-radius: 100px;*/
+}
